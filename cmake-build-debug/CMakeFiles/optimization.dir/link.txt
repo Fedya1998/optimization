@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/optimization.dir/main.c.o CMakeFiles/optimization.dir/hashtable.c.o  -o optimization 

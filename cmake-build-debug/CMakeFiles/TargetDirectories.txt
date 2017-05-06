@@ -1,0 +1,3 @@
+/home/fedya/code/ded/optimization/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/fedya/code/ded/optimization/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fedya/code/ded/optimization/cmake-build-debug/CMakeFiles/optimization.dir
